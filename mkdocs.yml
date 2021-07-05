@@ -1,0 +1,11 @@
+site_name: IFRN Geeks
+repo_url: https://gitlab.devops.ifrn.edu.br/ifrn.geeks/site-ifrn-geeks
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: green
+
+
